@@ -45,17 +45,3 @@ Go to the link below for installation if you don't have installed yet.
 
 - Congratulation 🎉 you have setup the environment successfully
 
-
-
-## 🛠️ Technology Used
-
-This project uses the following technologies:
-
-- [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
-- [Express](http://expressjs.com/) and [Node](https://nodejs.org/en/) for the backend
-- [MongoDB](https://www.mongodb.com/) for the database
-- [Bootstrap](https://getbootstrap.com/) for styling
-
-<br/>
-
-<h2> Do not forget to give a star! ⭐🤗 </h2>
